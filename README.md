@@ -31,7 +31,7 @@ Activate it using:
   ```
 
 5. **Run the Port Scanner**: Execute `port_scanner.py` using the command:
-   `python port_scanner.py --host localhost --port 21-8000`
+   `python port_scanner.py --host ip-address --port port ranger e.g (2-20)`
    
 6. **Example Usage**: Feel free to utilize the port scanner with your desired host and port range. For instance:
  `python port_scanner.py --host localhost --port 1-8000`
