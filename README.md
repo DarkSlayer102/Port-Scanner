@@ -1,5 +1,6 @@
 # Port-Scanner
 
+
 I've crafted a basic port scanner using Python to delve into the capabilities of the nmap tool. This utility empowers users to probe for open ports on a specified host or range of hosts. While it may not employ intricate scanning methodologies, it serves as an entry point for grasping port scanning fundamentals and harnessing the potential of the nmap library.
 
 ## Instructions for Usage
