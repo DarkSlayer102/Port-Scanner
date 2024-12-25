@@ -171,7 +171,7 @@ def main():
 
     except ValueError:
         if addr == '':
-            print("Please don't leave it empty")
+            print("Please don't leave it empty ")
         logging.warning(f'The Ip address is not valid {addr}')
 
 
